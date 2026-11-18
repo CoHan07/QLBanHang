@@ -1,0 +1,16 @@
+
+# Java build files
+/build/
+/dist/
+
+# NetBeans private settings
+/nbproject/private/
+
+# Temporary files
+*.class
+*.log
+*.tmp
+
+# Operating system
+Thumbs.db
+.DS_Store
